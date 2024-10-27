@@ -17,6 +17,9 @@
     "express": "^4.21.1",
     "mongodb": "^6.10.0",
     "mongoose": "^8.7.2",
-    "nodemon": "^3.1.7"
+    "nodemon": "^3.1.7",
+    "simple": "^0.2.0",
+    "statistics": "^3.3.0"
+
   }
 }
